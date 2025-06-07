@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there!👋
+My name is Kalimonade, but you can call me Kali. I'm a student who knows HTML a whole lot more than any other language at this point. I'd be glad to learn other languages in the future!😄
+Also, I might start a YouTube channel! Keep up!
+WE LOVE CATE MEOWDY!!!!
 
-<!--
-**Kalimonade/Kalimonade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My projects so far
+My projects include:
 
-Here are some ideas to get you started:
+# Serious
+kalihub: My version of an old GitHub.
+kalihub social: The social side of kalihub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Fun
+discorduserpreview: A preview for Discord users that want to mess around with their profile.
+Sky: Working with Intergalaxity, this is a leaderboard maker for osu! maps that are not ranked in the official game. I do not play osu!, he does. I might in the future.
+
+More coming!
+
+## Stuffs about me
+Here are some fun facts about me
+
+# Languages I speak
+Growing up and still in Mexico, I speak a lot of Spanish!
+But I still know a lot of English too
+
+# Cool
+My middle name is actually Fox! (Don't tell anyone though!)
