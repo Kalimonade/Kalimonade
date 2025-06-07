@@ -4,7 +4,7 @@ Also, I might start a YouTube channel! Keep up!
 WE LOVE CATE MEOWDY!!!!
 
 # Quick links
-![Static Badge](https://img.shields.io/badge/youtube?style=social&logoSize=auto&color=red&link=https%3A%2F%2Fyoutube.com%2F%40kalimonade)
+[![you-tube](https://img.shields.io/badge/you-tube-FF0000)](https://youtube.com/@kalimonade)
 
 
 # My projects so far
