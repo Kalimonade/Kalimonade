@@ -4,8 +4,7 @@ Also, I might start a YouTube channel! Keep up!
 WE LOVE CATE MEOWDY!!!!
 
 # Quick links
-[![you-tube](https://img.shields.io/badge/you-tube-FF0000)](https://youtube.com/@kalimonade) [![blue-sky](https://img.shields.io/badge/blue-sky-0000FF)](https://bsky.app/profile/kalimonade.bsky.social) [![pwip-go](https://img.shields.io/badge/pwip-ADD8E6)(https://x.com/kalimonade)
-
+[![you-tube](https://img.shields.io/badge/you-tube-FF0000)](https://youtube.com/@kalimonade) [![blue-sky](https://img.shields.io/badge/blue-sky-0000FF)](https://bsky.app/profile/kalimonade.bsky.social) [![pwip](https://img.shields.io/badge/pwip-ADD8E6)](x.com/kalimonade)
 
 # My projects so far
 My projects include:
