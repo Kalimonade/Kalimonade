@@ -11,10 +11,12 @@ My projects include:
 
 ## Serious
 kalihub: My version of an old GitHub.
+
 kalihub social: The social side of kalihub.
 
 ## Fun
 discorduserpreview: A preview for Discord users that want to mess around with their profile.
+
 Sky: Working with Intergalaxity, this is a leaderboard maker for osu! maps that are not ranked in the official game. I do not play osu!, he does. I might in the future.
 
 More coming!
