@@ -3,6 +3,10 @@ My name is Kalimonade, but you can call me Kali. I'm a student who knows HTML a 
 Also, I might start a YouTube channel! Keep up!
 WE LOVE CATE MEOWDY!!!!
 
+# Quick links
+![Static Badge](https://img.shields.io/badge/youtube?style=social&logoSize=auto&color=red&link=https%3A%2F%2Fyoutube.com%2F%40kalimonade)
+
+
 # My projects so far
 My projects include:
 
