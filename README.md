@@ -10,14 +10,14 @@ WE LOVE CATE MEOWDY!!!!
 My projects include:
 
 ## Serious
-kalihub: My version of an old GitHub.
+[![kali-hub](https://img.shields.io/badge/kali-hub-brown)](https://github.com/Kalimonade/kalihub): My version of an old GitHub.
 
-kalihub social: The social side of kalihub.
+[![kali-hubsocial](https://img.shields.io/badge/kalihub-social-black)](https://github.com/Kalimonade/kalihubsocial): The social side of kalihub.
 
 ## Fun
-discorduserpreview: A preview for Discord users that want to mess around with their profile.
+[![discorduserpreview](https://img.shields.io/badge/discord-userpreview-7289da)](https://github.com/Kalimonade/discorduserpreview): A preview for Discord users that want to mess around with their profile.
 
-Sky: Working with Intergalaxity, this is a leaderboard maker for osu! maps that are not ranked in the official game. I do not play osu!, he does. I might in the future.
+[![sky](https://img.shields.io/badge/sky-4e5d94)](https://github.com/Kalimonade/sky): Working with Intergalaxity, this is a leaderboard maker for osu! maps that are not ranked in the official game. I do not play osu!, he does. I might in the future.
 
 More coming!
 
